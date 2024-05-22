@@ -14,7 +14,6 @@ Este é um site que criei para compartilhar curiosidades e histórias sobre o An
 
 - **HTML:** Estrutura do site.
 - **CSS:** Estilização e layout do site, com foco em design responsivo.
-- **JavaScript:** Adiciona interatividade e funcionalidades ao site.
 
 ## Como Usar
 
